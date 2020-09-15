@@ -1,0 +1,34 @@
+
+body{
+    background-image: url("./images.css/water_project.jpg");
+    background-size: cover;
+}
+p{
+text-align: center;
+color: DC4343;
+padding-left: 3em;
+}
+ol{
+    padding-left: 5em;
+    color: DC4343;
+}
+h1{
+    text-align: center;
+    color:black;
+}
+
+footer {padding-bottom:0%;
+    left: 0; 
+    bottom: 10px;
+    width: 100%;
+    height: 20%;
+    background-color:black;
+    color: white;
+    text-align: center
+}
+.fa-facebook{
+    color: blue;
+    text-align: end;
+    justify-content: end;
+}
+
