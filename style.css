@@ -1,0 +1,44 @@
+#head{
+    background-image: url("./images.css/McCurry-clean-water.jpg");
+    background-size: cover;
+}
+#class{
+    background-image: url(./images.css/unnamed\(1\).jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* margin-top: -20px;
+    margin-bottom:800px;
+    margin-left: -20; */
+}
+#head{
+    text-align: center;       
+}
+nav{
+    text-align: right;
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+}
+.footer {padding-bottom:1%;
+    /* flex-direction: column-reverse; */
+    /* position: fixed; */
+   
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+ }
+ #h2{
+     text-align: end;
+     /* justify-content: flex-end; */
+     /* text-align: right; */
+     /* text-align: justify; */
+ }
+.water{
+   text-align: center;
+   margin-top: 400px;
+   margin-left:200px;
+}
+
