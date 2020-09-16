@@ -2,6 +2,7 @@
 body{
     background-image: url("./images.css/water_project.jpg");
     background-size: cover;
+    background-color: blue;
 }
 p{
 text-align: center;
