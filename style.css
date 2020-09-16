@@ -1,14 +1,19 @@
 #head{
     background-image: url("./images.css/McCurry-clean-water.jpg");
-    background-size: cover;
+    background-size: cover ;
+    background-repeat: no-repeat;
+    height: 300px;
+    margin-bottom: 50px;
+
 }
 #class{
     background-image: url(./images.css/unnamed\(1\).jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    /* margin-top: -20px;
+    margin-top: 20px;
     margin-bottom:800px;
-    margin-left: -20; */
+    margin-left: 20; 
+    height: 200px;
 }
 #head{
     text-align: center;       
@@ -19,14 +24,14 @@ nav{
     justify-content: space-between;
     text-decoration: none;
 }
-.footer {padding-bottom:1%;
+.footer {padding-bottom:2%;
     /* flex-direction: column-reverse; */
     /* position: fixed; */
    
     left: 0;
-    bottom: 0;
+    bottom: 10px;
     width: 100%;
-    background-color: red;
+    background-color:black;
     color: white;
     text-align: center;
  }
@@ -41,4 +46,16 @@ nav{
    margin-top: 400px;
    margin-left:200px;
 }
+.fa-facebook{
+    color: blue;
+    text-align: end;
+    justify-content: end;
+}
+.fa{
+    display: flex;
+  text-align: end;
+}
+
+
+
 
