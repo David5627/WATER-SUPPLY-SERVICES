@@ -10,10 +10,8 @@
     background-image: url(./images.css/unnamed\(1\).jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    margin-top: 20px;
-    margin-bottom:800px;
-    margin-left: 20; 
-    height: 200px;
+   
+    background-color: blue;
 }
 #head{
     text-align: center;       
@@ -24,7 +22,7 @@ nav{
     justify-content: space-between;
     text-decoration: none;
 }
-.footer {padding-bottom:2%;
+.footer {padding-bottom:1%;
     /* flex-direction: column-reverse; */
     /* position: fixed; */
    
@@ -37,23 +35,26 @@ nav{
  }
  #h2{
      text-align: end;
-     /* justify-content: flex-end; */
-     /* text-align: right; */
-     /* text-align: justify; */
+     justify-content: flex-end;
+     text-align: right; 
+     text-align: justify;
  }
 .water{
    text-align: center;
    margin-top: 400px;
    margin-left:200px;
 }
-.fa-facebook{
-    color: blue;
-    text-align: end;
-    justify-content: end;
-}
 .fa{
-    display: flex;
-  text-align: end;
+    color: blue;
+    text-align: right;
+    margin: 5px 2px;
+}
+
+#Home{
+    background-color:black;
+    background-size: cover;
+    text-align: center;
+    color: royalblue;
 }
 
 
