@@ -25,11 +25,22 @@ footer {padding-bottom:0%;
     height: 20%;
     background-color:black;
     color: white;
-    text-align: center
+    text-align: center;
+    
+
 }
 .fa-facebook{
     color: blue;
     text-align: end;
     justify-content: end;
+}
+nav{
+    text-align: right;
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+}
+nav a{
+    color: black;
 }
 
