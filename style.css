@@ -41,7 +41,6 @@ nav {
     margin-top: 400px;
     margin-left: 200px;
     color: black;
-    >>>>>>>7a36b0f0dccfbd5541f1ce231a1b6c7912206104
 }
 
 #h2 {
@@ -80,7 +79,7 @@ h1 {
     text-decoration: underline;
     font-weight: bold;
     color: white;
-    .bg {
+    bg: {
         background-image: url("/images.css/McCurry-clean-water.jpg");
         height: 100%;
         background-position: center;
