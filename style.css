@@ -1,105 +1,128 @@
-#head{
+#head {
     background-image: url("./images.css/McCurry-clean-water.jpg");
-    background-size: cover ;
+    background-size: cover;
     background-repeat: no-repeat;
     height: 300px;
     margin-bottom: 50px;
+}
 
+#head {
+    text-align: center;
 }
-#class{
-    background-image: url(./images.css/unnamed\(1\).jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-   
-    background-color: blue;
-}
-#head{
-    text-align: center;       
-}
-nav{
+
+nav {
     text-align: right;
     display: flex;
     justify-content: space-between;
     text-decoration: none;
 }
-.footer {padding-bottom:1%;
+
+.footer {
+    padding-bottom: 1%;
     /* flex-direction: column-reverse; */
     /* position: fixed; */
-   
     left: 0;
     bottom: 10px;
     width: 100%;
-    background-color:black;
+    background-color: black;
     color: white;
     text-align: center;
- }
- #h2{
-     text-align: end;
-     justify-content: flex-end;
-     text-align: right; 
-     text-align: justify;
- }
-.water{
-   text-align: center;
-   margin-top: 400px;
-   margin-left:200px;
-   color: black;
 }
 
-body,html {
+#h2 {
+    text-align: end;
+    justify-content: flex-end;
+    text-align: right;
+    text-align: justify;
+}
+
+.water {
+    text-align: center;
+    margin-top: 400px;
+    margin-left: 200px;
+    color: black;
+    >>>>>>>7a36b0f0dccfbd5541f1ce231a1b6c7912206104
+}
+
+#h2 {
+    text-align: end;
+    justify-content: flex-end;
+    text-align: right;
+    text-align: justify;
+}
+
+.water {
+    text-align: center;
+    margin-top: 400px;
+    margin-left: 200px;
+}
+
+body,
+html {
     height: 100%;
     margin: 0;
 }
-        
-          h1 {
-              text-align: center;
-              text-decoration: underline;
-              font-weight: bold;
-              color:white;
-        
-          } 
-        
-        
-          p {
-            color:white;
-            text-size-adjust: 50%;
-        }
-        
-        
-      
 
-  h1 {
-      text-align: center;
-      text-decoration: underline;
-      font-weight: bold;
-      color:white;
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+    color: white;
+}
 
-  } 
-
-
-  p {
-    color:white;
+p {
+    color: white;
     text-size-adjust: 50%;
 }
 
-
-
-.fa{
-    color: blue;
-    text-align: right;
-    margin: 5px 2px;
-}
-
-#Home{
-    background-color:black;
-    background-size: cover;
+h1 {
     text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
     color: white;
+    .bg {
+        background-image: url("/images.css/McCurry-clean-water.jpg");
+        height: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-color: blue;
+        height: 100%;
+        text-decoration-color: yellowgreen;
+    }
+    h1 {
+        text-align: center;
+        text-decoration: underline;
+        font-weight: bold;
+        color: white;
+    }
+    p {
+        color: white;
+        text-size-adjust: 50%;
+    }
+    h1 {
+        text-align: center;
+        text-decoration: underline;
+        font-weight: bold;
+        color: white;
+    }
+    p {
+        color: white;
+        text-size-adjust: 50%;
+    }
+    .fa {
+        color: blue;
+        text-align: right;
+        margin: 5px 2px;
+    }
+    #Home {
+        background-color: black;
+        background-size: cover;
+        text-align: center;
+        color: royalblue;
+    }
 }
+
 #Home a {
     color: white;
 }
-
-
-
-
