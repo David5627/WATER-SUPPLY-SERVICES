@@ -56,11 +56,8 @@ nav {
     margin-left: 200px;
 }
 
-body,
-html {
-    height: 100%;
-    margin: 0;
-}
+
+
 
 h1 {
     text-align: center;
@@ -78,7 +75,7 @@ h1 {
     text-align: center;
     text-decoration: underline;
     font-weight: bold;
-    color: white;
+    color: white
     bg: {
         background-image: url("/images.css/McCurry-clean-water.jpg");
         height: 100%;
@@ -88,6 +85,7 @@ h1 {
         background-color: blue;
         height: 100%;
         text-decoration-color: yellowgreen;
+   
     }
     h1 {
         text-align: center;
@@ -120,8 +118,11 @@ h1 {
         text-align: center;
         color: royalblue;
     }
-}
+
 
 #Home a {
     color: white;
+}
+#class{
+    background-image: url("./images.css/unnamed\(1\).jpg");
 }
