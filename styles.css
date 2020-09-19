@@ -5,13 +5,14 @@ body{
     background-color: blue;
 }
 p{
-text-align: center;
-color: DC4343;
+    display: flex;
+text-align: left;
+color: black;
 padding-left: 3em;
 }
 ol{
     padding-left: 5em;
-    color: DC4343;
+    color: black;
 }
 h1{
     text-align: center;
