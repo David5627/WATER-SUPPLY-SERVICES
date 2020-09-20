@@ -52,6 +52,7 @@ nav {
 }
 
 .water {
+    display: flex;
     text-align: center;
     margin-top: 400px;
     margin-left: 200px;
