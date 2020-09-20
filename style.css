@@ -38,7 +38,7 @@ nav {
 }
 
 .water {
-    text-align: center;
+    text-align: right;
     margin-top: 400px;
     margin-left: 200px;
     color: black;
@@ -52,9 +52,11 @@ nav {
 }
 
 .water {
-    text-align: center;
+    display: flex;
+    text-align: right;
     margin-top: 400px;
     margin-left: 200px;
+    color: black;
 }
 
 
